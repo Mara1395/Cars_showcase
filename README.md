@@ -4,6 +4,27 @@ _Explore the Future of Automotive with Next.js 13_
 
 Welcome to the CarShowcase GitHub repository! This repository contains the code base for CarHub, a modern car research platform built on Next.js 13.
 
+![car_hub](https://github.com/Mara1395/cars_showcase/assets/104097778/ac9b7ea5-61a0-4af4-8559-960a24fd9143)
+
+
+
+
+## 📄 Introduction
+Discover the future of automotive exploration with CarHub, a cutting-edge Next.js 13 application that redefines the way you interact with vehicles. 
+In order to create this project and perfect my knowledge, I followed Adrian Hajdin's YouTube tutorial and steps in creating this platform.
+
+### Through this project I learned:
+* Use Next.js 13 App Router and Server Side Rendering
+* Implement Advanced Search Functionality
+* Create Filtering Capabilities
+* Optimize Metadata and SEO
+* Create custom filter, combobox, and modal elements
+* Maintain a well-organized file and folder structure.
+* Embrace the principles of writing clean code.
+
+![car_hub_filter](https://github.com/Mara1395/cars_showcase/assets/104097778/fc5674c8-a018-49b3-a793-ee798c545805)
+
+
 
 ## 🛠 Languages & Tools
 * React JS for building the UI
@@ -14,6 +35,7 @@ Welcome to the CarShowcase GitHub repository! This repository contains the code 
 
 ### ©️ License i Credits
 Setup provided by [JavaScript Mastery](https://github.com/adrianhajdin/).
+
 
 ### ✍🏻 Contact
 Contact me on the links below:
