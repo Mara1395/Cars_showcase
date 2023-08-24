@@ -2,7 +2,7 @@
 
 _Explore the Future of Automotive with Next.js 13_
 
-Welcome to the CarShowcase GitHub repository! This repository contains the code base for CarHub, a modern car research platform built on Next.js 13.
+Welcome to the CarShowcase GitHub repository! This repository contains the code base for CarHub, a modern car research platform built on Next.js 13. In this web application for car sales, the specifications of all vehicles can be easily found due to the creation of filters and modal elements.
 
 ![car_hub](https://github.com/Mara1395/cars_showcase/assets/104097778/ac9b7ea5-61a0-4af4-8559-960a24fd9143)
 
