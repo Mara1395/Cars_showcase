@@ -25,6 +25,28 @@ In order to create this project and perfect my knowledge, I followed Adrian Hajd
 ![car_hub_filter](https://github.com/Mara1395/cars_showcase/assets/104097778/fc5674c8-a018-49b3-a793-ee798c545805)
 
 
+## Getting Started
+
+### Dependencies
+* Node.js - You will need to have node js installed on your device. If you don't have it yet, install it from [here](https://nodejs.org/en/).
+* Tailwind CSS - [Click Here](https://tailwindcss.com/docs/guides/create-react-app) to view Tailwind CSS Guide.
+* TypeScript - [Click Here](https://www.typescriptlang.org/download) installation routes
+
+### Installation & Setup Instructions
+
+#### ⚙️ 1. First, run the development server:
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+```
+
+#### ⚙️ 2. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+#### ⚙️ 3. You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+
 
 ## 🛠 Languages & Tools
 * React JS for building the UI
@@ -45,20 +67,6 @@ Contact me on the links below:
 ![car_hub_gif](https://github.com/Mara1395/cars_showcase/assets/104097778/c28d64ce-0088-4eec-9ff3-14db2e77a516)
 
 
-
-First, run the development server:
-
-
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
 
 
