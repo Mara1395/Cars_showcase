@@ -64,7 +64,7 @@ Contact me on the links below:
 * <a href="mailto:jelcic.marija@gmail.com">Gmail</a>
 * [Linkedin](https://www.linkedin.com/in/marija-jel%C4%8Di%C4%87-1b958a24a)
 
-![car_hub_gif](https://github.com/Mara1395/cars_showcase/assets/104097778/c28d64ce-0088-4eec-9ff3-14db2e77a516)
+
 
 
 
